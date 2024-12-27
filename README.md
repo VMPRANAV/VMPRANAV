@@ -20,4 +20,4 @@ PII Detection Tool – AI-driven data encryption.
 Multi-Agency Rescue App – Emergency collaboration system.
 Connect with Me
 💼 LinkedIn
-📫 [your-email@example.com]
+📫 mailidofpranav@gmail.com
