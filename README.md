@@ -11,13 +11,18 @@ About Me
 
 Skills
 Languages: C, Python, Java
+
 Web Dev: HTML, CSS, JavaScript, Streamlit
+
 Tools: Flutter, Dart, MediPipe
 
 Projects
 Smart Parking System – IoT-based parking management.
+
 PII Detection Tool – AI-driven data encryption.
 Multi-Agency Rescue App – Emergency collaboration system.
+
 Connect with Me
+
 💼 LinkedIn
 📫 mailidofpranav@gmail.com
