@@ -87,12 +87,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **GitHub Analytics**
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ramjirv32&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramjirv32&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VMPRANAV&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMPRANAV&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ramjirv32&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VMPRANAV&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
