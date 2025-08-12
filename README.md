@@ -26,8 +26,8 @@
 - 🔭 I'm currently working on **Full Stack Development, AI Agent LLM Development, AI ML Engineer****
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 🌱 I'm currently learning **Cloud Technologies & Microservice
-- 💬 Ask me about **React, Node.js, DevOps, System Administration**
-- 📫 How to reach me: **itzrvm2337@gmail.com**
+- 💬 Ask me about **MERN Stack, Next.js,Typescript,PostgresSql, Supabase, DevOps, System Administration**
+- 📫 How to reach me: **mailidofpranav@gmail.com**
 - ⚡ Fun fact: **RHCSA Certified & Problem Solving Enthusiast**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
