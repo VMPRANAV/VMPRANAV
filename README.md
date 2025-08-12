@@ -1,7 +1,7 @@
 <div style="background-color: #000000; padding: 20px; margin: -20px;">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+Developers!+👋;I'm+Ramji;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+Developers!+👋;I'm+Pranav V M ;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,8 +12,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ramjirv32&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Ramjirv32)
 
-<a href="https://github.com/Ramjirv32" target="_blank"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ramji | GitHub" /></a>
-<a href="https://leetcode.com/u/RAMJI____B/" target="_blank"><img align="right" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Ramji | LeetCode" /></a>
+<a href="https://github.com/VMPRANAV" target="_blank"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ramji | GitHub" /></a>
+<a href="https://leetcode.com/u/mailidofpranav/" target="_blank"><img align="right" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Ramji | LeetCode" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -23,9 +23,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About Me**
 
-- 🔭 I'm currently working on **Full Stack Development & DevOps**
-- 🌱 I'm currently learning **Cloud Technologies & Microservices**
+- 🔭 I'm currently working on **Full Stack Development, AI Agent LLM Development, AI ML Engineer****
 - 👯 I'm looking to collaborate on **Open Source Projects**
+- 🌱 I'm currently learning **Cloud Technologies & Microservice
 - 💬 Ask me about **React, Node.js, DevOps, System Administration**
 - 📫 How to reach me: **itzrvm2337@gmail.com**
 - ⚡ Fun fact: **RHCSA Certified & Problem Solving Enthusiast**
