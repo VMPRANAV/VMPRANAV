@@ -1,3 +1,35 @@
+<!-- Header Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+Developers!+👋;I'm+Pranav+V+M;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
+</p>
+
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900" height="280" />
+</p>
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=VMPRANAV&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/VMPRANAV)
+
+<a href="https://github.com/VMPRANAV"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/mailidofpranav/"><img align="right" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
+
+---
+
+## ✨ About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" />
+
+- 🔭 I’m currently working on **Full Stack Development, AI Agent LLM Development, AI ML Engineering**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **Cloud Technologies & Microservices**
+- 💬 Ask me about **MERN Stack, Next.js, TypeScript, PostgreSQL, Supabase, DevOps, System Administration**
+- 📫 Reach me at: **mailidofpranav@gmail.com**
+- ⚡ Fun fact: **RHCSA Certified & Problem Solving Enthusiast**
+
+---
+
 ## 🛠 Tech Stack & Tools
 
 ### 💻 Programming Languages  
@@ -18,11 +50,6 @@
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge&logo=chainlink&logoColor=white)  
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5733?style=for-the-badge&logo=robots&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  
-![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white)  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB300?style=for-the-badge&logo=databricks&logoColor=black)  
 
 ### 🔧 Tools & Technologies  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
@@ -41,3 +68,31 @@
 ### 🎨 Additional Skills  
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 🏅 Certifications
+![RHCSA](https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified-red?style=for-the-badge&logo=redhat&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VMPRANAV&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMPRANAV&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VMPRANAV&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats" />
+</p>
+
+---
+
+## 📅 Weekly Development Breakdown
+```text
+JavaScript   25 hrs 30 mins  ████████████████████▓░░░░   82.50%
+React        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70%
+CSS          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
+SQL          2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10%
+Java         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   05.65%
