@@ -26,7 +26,6 @@
 - 🌱 I’m currently learning **Cloud Technologies & Microservices**
 - 💬 Ask me about **MERN Stack, Next.js, TypeScript, PostgreSQL, Supabase, DevOps, System Administration**
 - 📫 Reach me at: **mailidofpranav@gmail.com**
-- ⚡ Fun fact: **RHCSA Certified & Problem Solving Enthusiast**
 
 ---
 
@@ -70,9 +69,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
-
-## 🏅 Certifications
-![RHCSA](https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified-red?style=for-the-badge&logo=redhat&logoColor=white)
 
 ---
 
