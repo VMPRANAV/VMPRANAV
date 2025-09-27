@@ -84,11 +84,7 @@
 </p>
 
 ---
-
-## 📅 Weekly Development Breakdown
-```text
-JavaScript   25 hrs 30 mins  ████████████████████▓░░░░   82.50%
-React        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70%
-CSS          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
-SQL          2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10%
-Java         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   05.65%
+### 📈 Contribution Graph
+<div align="center">
+<img alt="Pranav Acticity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VMPRANAV&bg_color=020508&color=adf5d3&line=9b05ff&point=00ff91&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+</div>
